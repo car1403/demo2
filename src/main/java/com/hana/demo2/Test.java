@@ -5,4 +5,5 @@ public class Test {
   int b;
   int c;
   int d;
+  int dd;
 }
